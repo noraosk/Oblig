@@ -1,0 +1,2 @@
+# Oblig
+Newtons avkjølingslov
